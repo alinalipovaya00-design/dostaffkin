@@ -56,7 +56,6 @@
     text-decoration: none;
 }
 
-
 @media (max-width: 767px) {
     .header {
         left: 10px;
